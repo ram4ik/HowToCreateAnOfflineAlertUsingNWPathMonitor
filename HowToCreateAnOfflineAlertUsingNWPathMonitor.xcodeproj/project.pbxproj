@@ -11,6 +11,7 @@
 		5EE34B7A2C15C1F900861697 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EE34B792C15C1F900861697 /* ContentView.swift */; };
 		5EE34B7C2C15C1FA00861697 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5EE34B7B2C15C1FA00861697 /* Assets.xcassets */; };
 		5EE34B7F2C15C1FA00861697 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5EE34B7E2C15C1FA00861697 /* Preview Assets.xcassets */; };
+		5EE34B862C15C22500861697 /* NetworkMonitor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EE34B852C15C22500861697 /* NetworkMonitor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		5EE34B792C15C1F900861697 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5EE34B7B2C15C1FA00861697 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5EE34B7E2C15C1FA00861697 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5EE34B852C15C22500861697 /* NetworkMonitor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkMonitor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				5EE34B772C15C1F900861697 /* HowToCreateAnOfflineAlertUsingNWPathMonitorApp.swift */,
 				5EE34B792C15C1F900861697 /* ContentView.swift */,
+				5EE34B852C15C22500861697 /* NetworkMonitor.swift */,
 				5EE34B7B2C15C1FA00861697 /* Assets.xcassets */,
 				5EE34B7D2C15C1FA00861697 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5EE34B7A2C15C1F900861697 /* ContentView.swift in Sources */,
+				5EE34B862C15C22500861697 /* NetworkMonitor.swift in Sources */,
 				5EE34B782C15C1F900861697 /* HowToCreateAnOfflineAlertUsingNWPathMonitorApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
